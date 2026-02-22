@@ -1,0 +1,16 @@
+--- Final Evaluation Metrics (Decomposition Applied) ---
+Accuracy:  0.8862
+Precision: 0.8988
+Recall:    0.8862
+F1-Score:  0.8816
+AUC:       0.9761
+
+--- Detailed Classification Report ---
+              precision    recall  f1-score   support
+
+      Normal       0.98      0.71      0.82       234
+   Pneumonia       0.85      0.99      0.92       390
+
+    accuracy                           0.89       624
+   macro avg       0.91      0.85      0.87       624
+weighted avg       0.90      0.89      0.88       624

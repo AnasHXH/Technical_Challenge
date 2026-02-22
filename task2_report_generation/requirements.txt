@@ -1,0 +1,12 @@
+torch
+torchvision
+scikit-learn
+numpy
+medmnist
+transformers>=4.51.3
+accelerate
+huggingface-hub
+pillow<12.0
+matplotlib
+seaborn
+gradio

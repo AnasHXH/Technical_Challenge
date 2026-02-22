@@ -1,0 +1,4 @@
+from medmnist import PneumoniaMNIST
+
+print("Downloading/Loading PneumoniaMNIST test set...")
+test_dataset = PneumoniaMNIST(split='test', transform=data_transform, download=True)
