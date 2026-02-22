@@ -1,6 +1,6 @@
 # Medical Image Analysis & Retrieval Pipeline
 
-Welcome to the repository for my Postdoctoral Technical Challenge for Alfaisal University. This project demonstrates a comprehensive, end-to-end deep learning pipeline focused on medical image analysis, specifically utilizing the PneumoniaMNIST dataset. 
+This project demonstrates a comprehensive, end-to-end deep learning pipeline focused on medical image analysis, specifically utilizing the PneumoniaMNIST dataset. 
 
 The repository is structured around three core tasks: image classification, misclassification analysis via super-resolution and UI development, and an advanced content-based image retrieval system.
 
